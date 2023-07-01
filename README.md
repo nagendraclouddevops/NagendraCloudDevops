@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagendraclouddevops&label=Profile%20views&color=0e75b6&style=flat" alt="nagendraclouddevops" /> </p>
 
-- 🔭 I’m currently working on **Azure,Kuberantes,Terraform**;
+- 🔭 I’m currently working on **Azure,Azure DevOps,Kuberantes,Terraform**;
 
 - 🌱 I’m currently learning **Kubernates**;
 
