@@ -27,7 +27,7 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=nagendraclouddevops&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=nagendraclouddevops&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
 ### 📈 My GitHub Contributions
 ![Snake animation](https://github.com/NagendraCloudDevops/nagendraclouddevops/blob/main/github-contribution-grid-snake.svg)
