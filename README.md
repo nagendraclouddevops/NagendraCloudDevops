@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Nagendra Babu <img src="https://github.com/NagendraCloudDevops/NagendraCloudDevops/blob/main/Hi.gif" width="25"></h1>
+<h1 align="center">Hi , I'm Nagendra Babu <img src="https://github.com/nagendraclouddevops/nagendraclouddevops/blob/main/Hi.gif" width="25"></h1>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagendraclouddevops&label=Profile%20views&color=0e75b6&style=flat" alt="nagendraclouddevops" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kubernates**;
 
-- 👨‍💻 All of my projects are available at [https://github.com/NagendraCloudDevops](https://github.com/NagendraCloudDevops);
+- 👨‍💻 All of my projects are available at [https://github.com/nagendraclouddevops](https://github.com/nagendraclouddevops);
 
 - 💬 Ask me about **Cloud,DevOps,Kubernates,Terraform**;
 
@@ -28,7 +28,7 @@
 
 <h3 align="left">### 🔝 Top Contributed Repo</h3>
 
-![](https://github-contributor-stats.vercel.app/api?username=NagendraCloudDevops&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=nagendraclouddevops&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/NagendraCloudDevops/NagendraCloudDevops/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NagendraCloudDevops/nagendraclouddevops/blob/main/github-contribution-grid-snake.svg)
