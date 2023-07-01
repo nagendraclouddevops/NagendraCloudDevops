@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagendraclouddevops&label=Profile%20views&color=0e75b6&style=flat" alt="nagendraclouddevops" /> </p>
 
-- 🔭 I’m currently working on **Azure,Kuberantes,Terraform**
+- 🔭 I’m currently working on **Azure,Kuberantes,Terraform**;
 
-- 🌱 I’m currently learning **Kubernates**
+- 🌱 I’m currently learning **Kubernates**;
 
-- 👨‍💻 All of my projects are available at [https://github.com/NagendraCloudDevops](https://github.com/NagendraCloudDevops)
+- 👨‍💻 All of my projects are available at [https://github.com/NagendraCloudDevops](https://github.com/NagendraCloudDevops);
 
-- 💬 Ask me about **Cloud,DevOps,Kubernates,Terraform**
+- 💬 Ask me about **Cloud,DevOps,Kubernates,Terraform**;
 
-- 📫 How to reach me **pnbabu2022@gmail.com**
+- 📫 How to reach me **pnbabu2022@gmail.com**;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
